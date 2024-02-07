@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/jakaufmann/vivadoProjects/SoC/SoC.sim/sim_1/behav/xsim/glbl.v,1706042556,verilog,,,,glbl,,,,,,,,
+/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sim_1/new/SoC_tb.v,1706605411,verilog,,,/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sim_1/new/riscv_assembly.v,SoC_tb,,,,BENCH=1,,,,
+/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sim_1/new/riscv_assembly.v,1706504563,verilog,,,,,,,,,,,,
+/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v,1706605242,verilog,,/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sim_1/new/SoC_tb.v,/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/Clockworks.v;/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/clockworks.v,Memory;Processor;SOC,,,,BENCH=1,,,,
+/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/clockworks.v,1706042557,verilog,,,,Clockworks,,,,,,,,

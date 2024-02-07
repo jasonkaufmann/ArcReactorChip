@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clockworks
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module Processor
+WARNING: [VRFC 10-3380] identifier 'state' is used before its declaration [/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v:214]
+INFO: [VRFC 10-311] analyzing module SOC
+WARNING: [VRFC 10-2938] 'mem_addr' is already implicitly declared on line 284 [/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v:289]
+WARNING: [VRFC 10-2938] 'mem_rdata' is already implicitly declared on line 285 [/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v:290]
+WARNING: [VRFC 10-2938] 'mem_rstrb' is already implicitly declared on line 286 [/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sources_1/new/SoC.v:291]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jakaufmann/vivadoProjects/SoC/SoC.srcs/sim_1/new/SoC_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SoC_tb
